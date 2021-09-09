@@ -20,7 +20,9 @@ public class GitCommands {
      *  git status
      *
      * Command to push from local to remote
-     *
+     *  git add file1 file2 ...
+     *  git commit -m "commit statement"
+     *  git push
      *
      */
 
