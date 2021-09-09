@@ -40,13 +40,14 @@ public class File1 {
          * comment.
          */
 
-
+        // sout <-- shortcut to create System.out.println();
         System.out.println("Hello World!");
         System.out.println("Have a great day!");
 
         /**
          * Console : System.out.println prints the result in the console window.
          */
+
 
 
     }
